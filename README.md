@@ -30,9 +30,9 @@ React native js (expo)
 npm i 
 npx nodemon index.js
 ### run app in mobile 
-cd LN_Test
-npm i 
+##### cd LN_Test
+##### npm i 
 #### -run in android
-npx expo start --android
+##### npx expo start --android
 #### -run in ios
-npx expo start --ios
+##### npx expo start --ios

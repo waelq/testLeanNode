@@ -25,10 +25,12 @@ Uses realtime connection by firebase
 
 ## Run app
 ### run server 
+npm i 
 npx nodemon index.js
 ### run app in mobile 
 cd LN_Test
-#### run in android
+npm i 
+#### -run in android
 npx expo start --android
-#### run in ios
+#### -run in ios
 npx expo start --ios

@@ -10,18 +10,20 @@ Mobile applications make provides the user with easy access to his favorite site
 React native js (expo)
 
 ## Technologies
-react-navigation/native
-eact-navigation/native-stack
-react-native-maps 
-firebase (auth && firestore)
 
-Backend Section:
-Node js
-Express
-Google Firebase
-Uses REST API
-Stores & sync data with firebase
-Uses realtime connection by firebase
+### frontend Section (LN_Test fiel)
+##### react-navigation/native
+##### react-navigation/native-stack
+##### react-native-maps 
+##### firebase (auth && firestore)
+
+### Backend Section:
+##### Node js
+##### Express
+##### Google Firebase
+##### Uses REST API
+##### Stores & sync data with firebase
+##### Uses realtime connection by firebase
 
 ## Run app
 ### run server 
